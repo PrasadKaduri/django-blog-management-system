@@ -1,7 +1,5 @@
-# Django Blog Project — Premium Course (Tech With Rathan)
-
 **Welcome!**  
-This repository contains the source code for the *Django Blogging System* premium course by **Tech With Rathan**. This is a real-world, feature-rich blogging system built to teach practical Django — from models, templates and forms to permissions, dashboards and deployment.
+This repository contains the source code for the *Django Blogging System* premium course.. This is a real-world, feature-rich blogging system built to teach practical Django — from models, templates and forms to permissions, dashboards and deployment.
 
 ---
 
@@ -38,19 +36,5 @@ This course focuses on **practical features** used in production blogging system
 - Django 4.x (see `requirements.txt`) - always use latest version 
 - A virtual environment tool (`venv` / `virtualenv`)  
 - PostgreSQL / MySQL or SQLite for development
-- (Optional) nginx / gunicorn for production — [contact me](https://techwithrathan.com/contact/) for advanced deployments.
 
-## 🚀 Join My 8-Week Backend Developer Program  
-Become industry-ready in 8 weeks!  
-👉 [Enroll here](https://techwithrathan.com/django-live/)
 
-## ❤️ Support My Work
-
-<a href="https://www.youtube.com/@rathankumar">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" width="120">
-</a>
-
-If you like this project, please support me by subscribing to my channel:  
-👉 **Tech With Rathan** — https://www.youtube.com/@rathankumar
-
-All the best.
