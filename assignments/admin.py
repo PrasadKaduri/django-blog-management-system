@@ -10,4 +10,5 @@ class AboutAdmin(admin.ModelAdmin):
         return False
 
 admin.site.register(About, AboutAdmin)
+
 admin.site.register(SocialLink)
